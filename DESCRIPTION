@@ -1,0 +1,14 @@
+Package: RcppRollMeandB
+Title: Wrapper package to calculate rolling statistics of acoustic data
+Version: 0.1.0
+Authors@R: 
+    person("Johan", "van den Hoogen", email = "jhoogen@ethz.ch", role = c("aut", "cre"))
+Description: Wrapper package to calculate rolling statistics of acoustic data
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    Rcpp
+LinkingTo: Rcpp
+RoxygenNote: 7.2.1
+
